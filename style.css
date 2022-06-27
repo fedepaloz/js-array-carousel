@@ -45,6 +45,6 @@ img {
 
 }
 
-#right-arrow:hover{transform: scale(1.2);}
-#left-arrow:hover{transform: scale(1.2);}
+#right-arrow:hover{transform: scale(1.2); color: red;}
+#left-arrow:hover{transform: scale(1.2);color: red;}
 
