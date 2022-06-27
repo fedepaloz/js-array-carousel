@@ -1,0 +1,30 @@
+.container {
+    margin: 100px auto;
+    background-color: rgb(213, 213, 213);
+    position: relative;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.slide-cards {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+}
+
+img {
+    width: 100%;
+}
+
+#left-arrow {
+
+    transform: translate(-10%, 50%);
+}
+
+#right-arrow {
+    transform: translate(10%, 50%);
+
+}
